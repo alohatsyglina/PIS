@@ -1,0 +1,6 @@
+User 38 
+515 ('Local Hero (1983)', '01-Jan-1983') 5
+408 ('Jack (1996)', '07-Aug-1996') 5
+923 ('White Squall (1996)', '01-Jan-1996') 5
+474 ('Trainspotting (1996)', '19-Jul-1996') 4.798
+316 ('In the Name of the Father (1993)', '01-Jan-1993') 4.791
