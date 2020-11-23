@@ -1,0 +1,95 @@
+{
+          "head": {
+                    "vars": [
+                              "awardLabel"
+                    ]
+          },
+          "results": {
+                    "bindings": [
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Academy Awards"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Academy Award for Best Director"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "AFI Life Achievement Award"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Legion of Merit"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Distinguished Service Medal"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "National Medal of Arts"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "National Board of Review Award for Best Film"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "World War II Victory Medal"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "American Campaign Medal"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Victory Medal"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Inkpot Award"
+                                        }
+                              },
+                              {
+                                        "awardLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Golden Plate Award"
+                                        }
+                              }
+                    ]
+          }
+}
